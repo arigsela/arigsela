@@ -16,9 +16,14 @@ Platform Engineering leader with 10+ years building cloud-native infrastructure 
 ## Core Competencies
 
 **Cloud & Containers:** AWS (EKS, EC2, RDS, S3, IAM) • Kubernetes • Docker • Karpenter • KEDA • Helm
+
 **Infrastructure as Code:** Terraform (Cloud & Self-Managed) • Crossplane • GitOps (ArgoCD)
+
 **Observability:** Datadog • Prometheus • OpenTelemetry | **CI/CD:** GitHub Actions • Argo Rollouts
-**Languages:** Python • Java • Node.js • Bash | **Security:** SOC2 Compliance • RBAC • Vault
+
+**Languages:** Python • Java • Node.js • Bash
+
+**Security:** SOC2 Compliance • RBAC • Vault
 
 ---
 
@@ -57,6 +62,7 @@ Platform Engineering leader with 10+ years building cloud-native infrastructure 
 
 ### Earlier Experience (2013–2018)
 **Software Engineering Consultant** at Verizon Wireless – Technical lead, code review, Spring Boot/Batch development
+
 **Software Developer** at Inelecom & MindHub – .NET/Java enterprise application development
 
 ---
@@ -64,6 +70,7 @@ Platform Engineering leader with 10+ years building cloud-native infrastructure 
 ## Projects & Open Source
 
 **[kubernetes](https://github.com/arigsela/kubernetes)** – Terraform IaC for ArgoCD, Helm charts, GitOps deployments (monitoring, Crossplane, Vault)
+
 **[claude-agents](https://github.com/arigsela/claude-agents)** – AI agents for K8s monitoring and on-call engineering automation via Slack
 
 ---
@@ -71,6 +78,7 @@ Platform Engineering leader with 10+ years building cloud-native infrastructure 
 ## Education & Certifications
 
 **Universidad Autónoma de Baja California** – B.S. Electronic Engineering (2012) • B.S. Communications (2005)
+
 **Certified Scrum Master** – International Scrum Institute | *Pursuing: CKA, AWS AI Practitioner*
 
 ---
