@@ -3,7 +3,7 @@
 **Senior Platform Engineering Leader**
 
 📧 arigsela@gmail.com | 📱 404-740-8012 | 📍 Marietta, GA
-🔗 [linkedin.com/in/ari-sela-6b73236](https://www.linkedin.com/in/ari-sela-6b773236) | 💻 [github.com/arigsela](https://github.com/arigsela)
+🔗 [linkedin.com/in/ari-sela-6b73236](https://www.linkedin.com/in/ari-sela-6b773236) | 💻 [github.com/arigsela](https://github.com/arigsela) | 🌐 [bold.pro/my/ari-sela](https://bold.pro/my/ari-sela)
 
 ---
 
